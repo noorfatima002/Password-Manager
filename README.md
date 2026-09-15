@@ -1,2 +1,2 @@
-# Password--Manager
+# Password-Manager
 A secure and user-friendly desktop application developed using **Python and Tkinter** to provide an efficient solution for managing passwords and account credentials. The application is designed with a simple graphical interface and includes secure master password authentication, password generation, encryption, and protected storage. It allows users to easily manage their saved credentials while providing essential options for searching, updating, deleting, viewing, and copying passwords. This project demonstrates practical skills in Python programming, GUI development, authentication, encryption, file handling, and secure data management.
